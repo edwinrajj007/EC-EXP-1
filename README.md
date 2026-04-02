@@ -17,7 +17,14 @@
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
 
 
+
+## CALCULATION
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/26309ae2-a59f-43f0-bf09-296a1e51152e" />
+
+
 ## MODEL GRAPH
+
 
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
@@ -26,16 +33,17 @@
 
 ## Tabulation
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0b015e1-60f6-41e7-b66d-a06bdfeaefdb" />
 
 
 ## Graph
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fec235b0-870a-4f33-b03d-d85a584e5627" />
 
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/d54a407a-8c15-4560-bd07-32ef933e06e5" />
 
 
 **VOLTAGE GAIN =**
